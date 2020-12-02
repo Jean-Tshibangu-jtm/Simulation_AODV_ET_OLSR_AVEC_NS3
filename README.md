@@ -7,4 +7,4 @@ Estimation débit en réception en fonction de la distance Norme 802.11g
 
 Estimation débit en réception en fonction de la distance Norme 802.11n
 
-PDR en fonction de la mobilité dans AODV et OLSR
+Evaluation des performances en PDR fonction de la mobilité dans AODV et OLSR
